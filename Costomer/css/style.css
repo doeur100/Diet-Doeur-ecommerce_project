@@ -3,9 +3,10 @@ body{
     background-color: rgb(179, 179, 199);
 }
 .nav-bar{
-    background-color: blue;
+    background-color: rgb(97, 97, 221);
     display: flex;
     justify-content:space-around ;
+    padding: 10px;
 }
 .search{
     margin-top: 30px;
@@ -66,3 +67,23 @@ body{
     justify-content: center;
     display: flex;
 } */
+.footer{
+    background-color: rgb(32, 28, 28);
+    padding: 50px;
+}
+.footer h1,h2{
+    color: white;
+    text-align: center;
+}
+.material-icons{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 50%;
+    margin: 10px;
+   
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    
+}
