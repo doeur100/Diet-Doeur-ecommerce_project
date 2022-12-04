@@ -10,8 +10,7 @@ body{
     background-color: rgb(65, 65, 211);
     display: flex;
     justify-content:space-around ;
-    padding: 10px;
-    border-radius: 10px;
+    padding: 4px;
 }
 .bar-right img {
     width: 10%;

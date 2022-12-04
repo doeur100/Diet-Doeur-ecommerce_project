@@ -2,6 +2,22 @@
 body{
     background-color: rgb(196, 207, 223);
 }
+.nav-bar{
+    background-color: rgb(65, 65, 211);
+    display: flex;
+    justify-content:space-around ;
+    padding: 10px;
+    color: white;
+}
+a{
+    color: white;
+}
+.image img{
+    width: 30%;
+}
+.image {
+    margin-right: 30%;
+}
 h2{
     text-align: center;
 }
